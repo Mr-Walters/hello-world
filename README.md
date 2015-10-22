@@ -1,3 +1,4 @@
 # hello-world
-Obligatory hello-world repository /n
+Obligatory hello-world repository. 
+
 Welp, just got started with GitHub. May this lead to a wonderful journey.
